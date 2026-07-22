@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-7do8in.apostasegura.digital/sitemap.xml
